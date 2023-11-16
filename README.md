@@ -18,3 +18,5 @@ This project serves as a fundamental learning step to understand NLP from scratc
 
 Feel free to explore the Jupyter Notebook (`project.ipynb`) for a step-by-step guide, contribute to enhancements, or ask questions to solidify your understanding of NLP concepts.
 
+# Link to Kaggle code notebook :
+https://www.kaggle.com/pr4nav101/movie-review-sentiment-analysis
