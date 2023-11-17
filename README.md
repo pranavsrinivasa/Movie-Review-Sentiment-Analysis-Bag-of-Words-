@@ -16,7 +16,7 @@ Movie Review Sentiment Analysis is a classic Natural Language Processing (NLP) p
 
 This project serves as a fundamental learning step to understand NLP from scratch. By working with Multinomial Naïve Bayes and Bag of Words, users gain insights into the basics of sentiment analysis, feature representation in NLP, and the principles behind classifying textual data.
 
-Feel free to explore the Jupyter Notebook (`project.ipynb`) for a step-by-step guide, contribute to enhancements, or ask questions to solidify your understanding of NLP concepts.
+Feel free to explore the Jupyter Notebook https://github.com/pranavsrinivasa/Movie-Review-Sentiment-Analysis-Bag-of-Words-/blob/main/movie-review-sentiment-analysis.ipynb for a step-by-step guide, contribute to enhancements, or ask questions to solidify your understanding of NLP concepts.
 
 # Link to Kaggle code notebook :
 https://www.kaggle.com/pr4nav101/movie-review-sentiment-analysis
